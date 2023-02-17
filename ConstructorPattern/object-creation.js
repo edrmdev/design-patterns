@@ -1,3 +1,4 @@
+/*Introduccion a las formas de creacion de objetos, acceso y definicion de sus propiedades */
 //1er forma de creacion
 const newObjectPrimerForma = {};
 
